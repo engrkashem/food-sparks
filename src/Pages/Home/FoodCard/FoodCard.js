@@ -6,7 +6,7 @@ const FoodCard = ({ food }) => {
     console.log(food)
     return (
         <div >
-            <Card className='h-100 p-2' style={{ width: '18rem' }}>
+            <Card className='h-100 p-2' style={{ width: '100%' }}>
                 <Card.Img variant="top" src={img} />
                 <Card.Body>
                     <div className='d-flex flex-column justify-content-between h-100'>
