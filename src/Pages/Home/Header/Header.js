@@ -1,10 +1,14 @@
 import React from 'react';
+import Banner from '../Banner/Banner';
 import './Header.css';
+
 
 const Header = () => {
     return (
         <div>
-            <h2>This is Header</h2>
+            <div className='bg-image'>
+                <Banner></Banner>
+            </div >
         </div>
     );
 };

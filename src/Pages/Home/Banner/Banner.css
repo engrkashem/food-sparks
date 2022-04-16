@@ -1,0 +1,10 @@
+.search-banner {
+    height: 450px;
+    background-image: url('../../../images/bannerbackground.png');
+    background-repeat: no-repeat;
+    background-size: 100vw 100%;
+}
+
+.search-container {
+    width: 30%;
+}
