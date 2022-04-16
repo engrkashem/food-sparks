@@ -3,8 +3,9 @@
     background-image: url('../../../images/bannerbackground.png');
     background-repeat: no-repeat;
     background-size: 100vw 100%;
+    margin: 0;
 }
 
 .search-container {
-    width: 30%;
+    padding: 0;
 }
