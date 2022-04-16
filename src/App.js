@@ -6,6 +6,7 @@ import BreakFast from './Pages/Home/BreakFast/BreakFast';
 import Dinner from './Pages/Home/Dinner/Dinner';
 import Home from './Pages/Home/Home/Home';
 import Lunch from './Pages/Home/Lunch/Lunch';
+import Footer from './Pages/Shared/Footer/Footer';
 import Login from './Pages/Shared/Login/Login';
 import NavBar from './Pages/Shared/NavBar/NavBar';
 import NotFound from './Pages/Shared/NotFound/NotFound';
@@ -31,6 +32,7 @@ function App() {
           <Route path='*' element={<NotFound />}></Route>
         </Routes>
       </FoodContext.Provider>
+      <Footer></Footer>
     </div>
   );
 }
