@@ -1,9 +1,13 @@
 .search-banner {
-    height: 450px;
+    height: 380px;
     background-image: url('../../../images/bannerbackground.png');
     background-repeat: no-repeat;
     background-size: 100vw 100%;
     margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .search-container {

@@ -1,0 +1,15 @@
+.link-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    margin-top: 80px;
+}
+
+.link {
+    border-radius: 20px;
+    background: #ffffff;
+    box-shadow: 5px 5px 10px #9c9c9c,
+        -5px -5px 10px #ffffff;
+    padding: 10px 20px;
+}
