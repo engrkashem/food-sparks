@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "name": "Eggs Benedict",
+        "description": "To poach the eggs, bring a large pan of water to the boil and add the vinegar. Lower the heat so that the water is simmering gently. Stir the water so you have a slight whirlpool, then slide in the eggs one by one. Topped each with an egg, spoon over some Hollandaise and garnish with chopped chives.",
+        "price": 7.99,
+        "img": "https://i.ibb.co/1rd1S1c/breakfast1.png",
+        "catagory": "breakfast"
+    },
+    {
+        "id": 2,
+        "name": "Cheese Sandwich served Fresh Fruits",
+        "description": "Fully Garden fresh fruits are served everyday. Our Homemade Cheese is used in making Sandwich.",
+        "price": 9.99,
+        "img": "https://i.ibb.co/vJM63NR/breakfast2.png",
+        "catagory": "breakfast"
+    },
+    {
+        "id": 3,
+        "name": "Chicken Casserole",
+        "description": "Served warm and maintaining hygene. Chicken is baked in controlled temperature, so that food neutritions and healthy ingredients stay intact. No preserved chemical is added and no antibiotics found in chicken",
+        "price": 11.99,
+        "img": "https://i.ibb.co/9TsdDDM/breakfast3.png",
+        "catagory": "breakfast"
+    },
+    {
+        "id": 4,
+        "name": "Begel and Cream Cheese",
+        "description": "Organic Eggs half boiled served with bread made with whole wheat flower. which enriched with high food value. added with fesh Tomato",
+        "price": 5.99,
+        "img": "https://i.ibb.co/ygPLh1z/breakfast4.png",
+        "catagory": "breakfast"
+    },
+    {
+        "id": 5,
+        "name": "Full Italian Breakfast",
+        "description": "Toast, Eggs, Mashroom, half boiled tomato, Beacon served with fruits. Certainly fullfill your body required neutrition for whole day.",
+        "price": 6.99,
+        "img": "https://i.ibb.co/Brhc89j/breakfast5.png",
+        "catagory": "breakfast"
+    },
+    {
+        "id": 6,
+        "name": "Toast Croissant Fried Eggs",
+        "description": "Served with sliced sausage, Half boiled Egg pouch, Toast, Fresh Salad. It contains a balanced carbohydrate and protain to boost your immune system.",
+        "price": 10.99,
+        "img": "https://i.ibb.co/gwc5YC4/breakfast6.png",
+        "catagory": "breakfast"
+    },
+    {
+        "id": 7,
+        "name": "Baked Chicked with Rare Steak",
+        "description": "Well baked and Grilled chicken with rarely cooked boneless mutton steak. served with fresh salad and sliced onion. Highly recommended food of our shop.",
+        "price": 21.99,
+        "img": "https://i.ibb.co/sJmHdRQ/dinner1.png",
+        "catagory": "dinner"
+    },
+    {
+        "id": 8,
+        "name": "Lemony Salmon Piccata",
+        "description": "Well Cooked Slamon fish with lemon juice added in cooking. served with fresh salad which very very suitable for your health.",
+        "price": 12.99,
+        "img": "https://i.ibb.co/y4JdQrP/dinner2.png",
+        "catagory": "dinner"
+    },
+    {
+        "id": 9,
+        "name": "Garlic Butter Baked Salmon",
+        "description": "Baked and fried Salmon. Best seafood in our shop. Served with baked and fried fresh vegetables.",
+        "price": 9.99,
+        "img": "https://i.ibb.co/KjfQryW/dinner3.png",
+        "catagory": "dinner"
+    },
+    {
+        "id": 10,
+        "name": "Cheesy French Fries",
+        "description": "Fresh Potato is sliced perfectly and baked well to prepare for fries. Well cooked French Fries is served with Cheese topped.",
+        "price": 8.99,
+        "img": "https://i.ibb.co/SRxLGVV/dinner4.png",
+        "catagory": "dinner"
+    },
+    {
+        "id": 11,
+        "name": "Pork Tenderloin With Quinoa Pilaf",
+        "description": "It's a traditional Korean food. Mouthwatering. As well as Highly neutritious and healthy and hygene.",
+        "price": 14.99,
+        "img": "https://i.ibb.co/s297bSp/dinner5.png",
+        "catagory": "dinner"
+    },
+    {
+        "id": 12,
+        "name": "Salmon with grape Fruit and Lentil Salad",
+        "description": "Seafood for healthy life. Best for light Dinner. Balanced food for Decent one.",
+        "price": 8.99,
+        "img": "https://i.ibb.co/KVTR1gm/dinner6.png",
+        "catagory": "dinner"
+    },
+    {
+        "id": 13,
+        "name": "Beef Steak",
+        "description": "Maintained Steak Cooking Standards perfectly. Your will find mouthwatering taste and extra ordinary flavour.",
+        "price": 23.99,
+        "img": "https://i.ibb.co/9NTmX3Q/lunch1.png",
+        "catagory": "lunch"
+    },
+    {
+        "id": 14,
+        "name": "Honey-Soy-Glazed Slamnom",
+        "description": "Slamon Fish prepared with Honey, Soy, paper and so many other ingredients to change your experience completely on having Salmon.",
+        "price": 7.99,
+        "img": "https://i.ibb.co/gSxnbt9/lunch2.png",
+        "catagory": "lunch"
+    },
+    {
+        "id": 15,
+        "name": "Tarragon-Rubbed-Salmon",
+        "description": "A Traditional Japanese Seafood item that prepared also traditionally by Skilled Cook. You can definately taste this traditional food that is so yummy.",
+        "price": 6.99,
+        "img": "https://i.ibb.co/61VZH7v/lunch3.png",
+        "catagory": "lunch"
+    },
+    {
+        "id": 16,
+        "name": "Indian Lunch",
+        "description": "Steamed Rice, Beef Bhuna served with Pappad and Egg Omlet Slice. Mouthwatering Taste with authentic indial food.",
+        "price": 19.99,
+        "img": "https://i.ibb.co/FhhNSn2/lunch4.png",
+        "catagory": "lunch"
+    },
+    {
+        "id": 17,
+        "name": "Fried Chicken Bento",
+        "description": "Grilled Chicken Quarter served with french fries and fried corn rice. Fresh sald added to this meal.",
+        "price": 9.99,
+        "img": "https://i.ibb.co/sCLrH6y/lunch5.png",
+        "catagory": "lunch"
+    },
+    {
+        "id": 18,
+        "name": "Chicken Steak With Baby Corn",
+        "description": "Chicken Steak prepared in different Steal style like, rare, medium rare, medium, well cooked. All these form are available.",
+        "price": 22.99,
+        "img": "https://i.ibb.co/w7d8rjn/lunch6.png",
+        "catagory": "lunch"
+    }
+]
